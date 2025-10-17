@@ -6,6 +6,7 @@ I am a full stack web developer student at FactoriaF5
 🎯 Desarrollador Full Stack | Java | Spring Boot | Node.js | React | Apasionado por OOP y backend
 
 🚀 Sobre mí
+
 Soy una persona apasionada por el desarrollo web, enfocada en el desarrollo fullstack. Disfruto aplicando buenas prácticas como Clean Code, testing y metodologías Agile/SCRUM en proyectos reales.
 
 Me considero curioso, proactivo y en constante aprendizaje. Me gusta formar parte de equipos donde compartir conocimiento y construir soluciones web con impacto real.
